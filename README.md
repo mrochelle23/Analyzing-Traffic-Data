@@ -1,4 +1,4 @@
-# Traffic Accident Analysis with `gawk`
+# Traffic Accident Analysis with GAWK
 
 This project analyzes traffic accident data from the **2017 Fatality Analysis Reporting System (FARS)** dataset using `gawk`. The program processes the file `accident.csv` to produce key insights about traffic accidents in the United States. The analysis includes accident proportions, Michigan-specific statistics, and state-level drunk driving summaries.
 
