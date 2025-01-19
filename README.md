@@ -179,4 +179,4 @@ State Code, # DD
 
 - **Script Name:** `script.awk`  
 - **Dependencies:** `gawk`  
-- **Input Filse:** `accident.csv` and `accident2.csv` 
+- **Input Files:** `accident.csv` and `accident2.csv` 
